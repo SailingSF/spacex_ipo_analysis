@@ -1,0 +1,121 @@
+segment,line_item,period,period_type,unit,value
+Space,Income (loss) from operations,Q1-2026,quarter,millions_usd,-662
+Space,Income (loss) from operations,Q1-2025,quarter,millions_usd,-70
+Space,Income (loss) from operations,FY2025,year,millions_usd,-657
+Space,Income (loss) from operations,FY2024,year,millions_usd,21
+Space,Income (loss) from operations,FY2023,year,millions_usd,-1
+Space,Depreciation and amortization,Q1-2026,quarter,millions_usd,166
+Space,Depreciation and amortization,Q1-2025,quarter,millions_usd,162
+Space,Depreciation and amortization,FY2025,year,millions_usd,757
+Space,Depreciation and amortization,FY2024,year,millions_usd,637
+Space,Depreciation and amortization,FY2023,year,millions_usd,571
+Space,Share-based compensation,Q1-2026,quarter,millions_usd,145
+Space,Share-based compensation,Q1-2025,quarter,millions_usd,108
+Space,Share-based compensation,FY2025,year,millions_usd,515
+Space,Share-based compensation,FY2024,year,millions_usd,472
+Space,Share-based compensation,FY2023,year,millions_usd,427
+Space,Restructuring charges,Q1-2026,quarter,millions_usd,0
+Space,Restructuring charges,Q1-2025,quarter,millions_usd,0
+Space,Restructuring charges,FY2025,year,millions_usd,0
+Space,Restructuring charges,FY2024,year,millions_usd,0
+Space,Restructuring charges,FY2023,year,millions_usd,0
+Space,Impairment,Q1-2026,quarter,millions_usd,0
+Space,Impairment,Q1-2025,quarter,millions_usd,24
+Space,Impairment,FY2025,year,millions_usd,38
+Space,Impairment,FY2024,year,millions_usd,24
+Space,Impairment,FY2023,year,millions_usd,0
+Space,Segment Adjusted EBITDA,Q1-2026,quarter,millions_usd,-351
+Space,Segment Adjusted EBITDA,Q1-2025,quarter,millions_usd,224
+Space,Segment Adjusted EBITDA,FY2025,year,millions_usd,653
+Space,Segment Adjusted EBITDA,FY2024,year,millions_usd,1154
+Space,Segment Adjusted EBITDA,FY2023,year,millions_usd,997
+Connectivity,Income (loss) from operations,Q1-2026,quarter,millions_usd,1188
+Connectivity,Income (loss) from operations,Q1-2025,quarter,millions_usd,1033
+Connectivity,Income (loss) from operations,FY2025,year,millions_usd,4423
+Connectivity,Income (loss) from operations,FY2024,year,millions_usd,2006
+Connectivity,Income (loss) from operations,FY2023,year,millions_usd,469
+Connectivity,Depreciation and amortization,Q1-2026,quarter,millions_usd,783
+Connectivity,Depreciation and amortization,Q1-2025,quarter,millions_usd,510
+Connectivity,Depreciation and amortization,FY2025,year,millions_usd,2376
+Connectivity,Depreciation and amortization,FY2024,year,millions_usd,1508
+Connectivity,Depreciation and amortization,FY2023,year,millions_usd,884
+Connectivity,Share-based compensation,Q1-2026,quarter,millions_usd,116
+Connectivity,Share-based compensation,Q1-2025,quarter,millions_usd,75
+Connectivity,Share-based compensation,FY2025,year,millions_usd,369
+Connectivity,Share-based compensation,FY2024,year,millions_usd,296
+Connectivity,Share-based compensation,FY2023,year,millions_usd,249
+Connectivity,Restructuring charges,Q1-2026,quarter,millions_usd,0
+Connectivity,Restructuring charges,Q1-2025,quarter,millions_usd,0
+Connectivity,Restructuring charges,FY2025,year,millions_usd,0
+Connectivity,Restructuring charges,FY2024,year,millions_usd,0
+Connectivity,Restructuring charges,FY2023,year,millions_usd,0
+Connectivity,Impairment,Q1-2026,quarter,millions_usd,0
+Connectivity,Impairment,Q1-2025,quarter,millions_usd,0
+Connectivity,Impairment,FY2025,year,millions_usd,0
+Connectivity,Impairment,FY2024,year,millions_usd,39
+Connectivity,Impairment,FY2023,year,millions_usd,0
+Connectivity,Segment Adjusted EBITDA,Q1-2026,quarter,millions_usd,2087
+Connectivity,Segment Adjusted EBITDA,Q1-2025,quarter,millions_usd,1618
+Connectivity,Segment Adjusted EBITDA,FY2025,year,millions_usd,7168
+Connectivity,Segment Adjusted EBITDA,FY2024,year,millions_usd,3849
+Connectivity,Segment Adjusted EBITDA,FY2023,year,millions_usd,1602
+AI,Income (loss) from operations,Q1-2026,quarter,millions_usd,-2469
+AI,Income (loss) from operations,Q1-2025,quarter,millions_usd,-936
+AI,Income (loss) from operations,FY2025,year,millions_usd,-6355
+AI,Income (loss) from operations,FY2024,year,millions_usd,-1561
+AI,Income (loss) from operations,FY2023,year,millions_usd,-3973
+AI,Depreciation and amortization,Q1-2026,quarter,millions_usd,1493
+AI,Depreciation and amortization,Q1-2025,quarter,millions_usd,771
+AI,Depreciation and amortization,FY2025,year,millions_usd,3568
+AI,Depreciation and amortization,FY2024,year,millions_usd,1679
+AI,Depreciation and amortization,FY2023,year,millions_usd,1180
+AI,Share-based compensation,Q1-2026,quarter,millions_usd,378
+AI,Share-based compensation,Q1-2025,quarter,millions_usd,49
+AI,Share-based compensation,FY2025,year,millions_usd,1063
+AI,Share-based compensation,FY2024,year,millions_usd,16
+AI,Share-based compensation,FY2023,year,millions_usd,3
+AI,Restructuring charges,Q1-2026,quarter,millions_usd,-11
+AI,Restructuring charges,Q1-2025,quarter,millions_usd,4
+AI,Restructuring charges,FY2025,year,millions_usd,487
+AI,Restructuring charges,FY2024,year,millions_usd,213
+AI,Restructuring charges,FY2023,year,millions_usd,237
+AI,Impairment,Q1-2026,quarter,millions_usd,0
+AI,Impairment,Q1-2025,quarter,millions_usd,0
+AI,Impairment,FY2025,year,millions_usd,0
+AI,Impairment,FY2024,year,millions_usd,0
+AI,Impairment,FY2023,year,millions_usd,3775
+AI,Segment Adjusted EBITDA,Q1-2026,quarter,millions_usd,-609
+AI,Segment Adjusted EBITDA,Q1-2025,quarter,millions_usd,-112
+AI,Segment Adjusted EBITDA,FY2025,year,millions_usd,-1237
+AI,Segment Adjusted EBITDA,FY2024,year,millions_usd,347
+AI,Segment Adjusted EBITDA,FY2023,year,millions_usd,1222
+Total Reportable Segments,Income (loss) from operations,Q1-2026,quarter,millions_usd,-1943
+Total Reportable Segments,Income (loss) from operations,Q1-2025,quarter,millions_usd,27
+Total Reportable Segments,Income (loss) from operations,FY2025,year,millions_usd,-2589
+Total Reportable Segments,Income (loss) from operations,FY2024,year,millions_usd,466
+Total Reportable Segments,Income (loss) from operations,FY2023,year,millions_usd,-3505
+Total Reportable Segments,Depreciation and amortization,Q1-2026,quarter,millions_usd,2442
+Total Reportable Segments,Depreciation and amortization,Q1-2025,quarter,millions_usd,1443
+Total Reportable Segments,Depreciation and amortization,FY2025,year,millions_usd,6701
+Total Reportable Segments,Depreciation and amortization,FY2024,year,millions_usd,3824
+Total Reportable Segments,Depreciation and amortization,FY2023,year,millions_usd,2635
+Total Reportable Segments,Share-based compensation,Q1-2026,quarter,millions_usd,639
+Total Reportable Segments,Share-based compensation,Q1-2025,quarter,millions_usd,232
+Total Reportable Segments,Share-based compensation,FY2025,year,millions_usd,1947
+Total Reportable Segments,Share-based compensation,FY2024,year,millions_usd,784
+Total Reportable Segments,Share-based compensation,FY2023,year,millions_usd,679
+Total Reportable Segments,Restructuring charges,Q1-2026,quarter,millions_usd,-11
+Total Reportable Segments,Restructuring charges,Q1-2025,quarter,millions_usd,4
+Total Reportable Segments,Restructuring charges,FY2025,year,millions_usd,487
+Total Reportable Segments,Restructuring charges,FY2024,year,millions_usd,213
+Total Reportable Segments,Restructuring charges,FY2023,year,millions_usd,237
+Total Reportable Segments,Impairment,Q1-2026,quarter,millions_usd,0
+Total Reportable Segments,Impairment,Q1-2025,quarter,millions_usd,24
+Total Reportable Segments,Impairment,FY2025,year,millions_usd,38
+Total Reportable Segments,Impairment,FY2024,year,millions_usd,63
+Total Reportable Segments,Impairment,FY2023,year,millions_usd,3775
+Total Reportable Segments,Segment Adjusted EBITDA,Q1-2026,quarter,millions_usd,1127
+Total Reportable Segments,Segment Adjusted EBITDA,Q1-2025,quarter,millions_usd,1730
+Total Reportable Segments,Segment Adjusted EBITDA,FY2025,year,millions_usd,6584
+Total Reportable Segments,Segment Adjusted EBITDA,FY2024,year,millions_usd,5350
+Total Reportable Segments,Segment Adjusted EBITDA,FY2023,year,millions_usd,3821

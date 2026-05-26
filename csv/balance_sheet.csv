@@ -1,0 +1,106 @@
+line_item,date,unit,value
+Cash and cash equivalents,2026-03-31,millions_usd,15852
+Cash and cash equivalents,2025-12-31,millions_usd,24747
+Cash and cash equivalents,2024-12-31,millions_usd,11385
+Marketable securities,2026-03-31,millions_usd,7823
+Marketable securities,2025-12-31,millions_usd,0
+Marketable securities,2024-12-31,millions_usd,800
+Accounts receivable net,2026-03-31,millions_usd,1833
+Accounts receivable net,2025-12-31,millions_usd,1579
+Accounts receivable net,2024-12-31,millions_usd,1052
+Inventory,2026-03-31,millions_usd,2588
+Inventory,2025-12-31,millions_usd,2416
+Inventory,2024-12-31,millions_usd,2003
+Prepaid expenses and other current assets,2026-03-31,millions_usd,1636
+Prepaid expenses and other current assets,2025-12-31,millions_usd,2210
+Prepaid expenses and other current assets,2024-12-31,millions_usd,868
+Total current assets,2026-03-31,millions_usd,29732
+Total current assets,2025-12-31,millions_usd,30952
+Total current assets,2024-12-31,millions_usd,16108
+Property plant and equipment net,2026-03-31,millions_usd,53879
+Property plant and equipment net,2025-12-31,millions_usd,42602
+Property plant and equipment net,2024-12-31,millions_usd,21147
+Finance lease right-of-use assets,2026-03-31,millions_usd,1182
+Finance lease right-of-use assets,2025-12-31,millions_usd,1260
+Finance lease right-of-use assets,2024-12-31,millions_usd,1686
+Intangible assets net,2026-03-31,millions_usd,1432
+Intangible assets net,2025-12-31,millions_usd,1548
+Intangible assets net,2024-12-31,millions_usd,2211
+Digital assets,2026-03-31,millions_usd,1293
+Digital assets,2025-12-31,millions_usd,1637
+Digital assets,2024-12-31,millions_usd,1749
+Goodwill,2026-03-31,millions_usd,11681
+Goodwill,2025-12-31,millions_usd,11809
+Goodwill,2024-12-31,millions_usd,11129
+Deferred tax assets,2026-03-31,millions_usd,213
+Deferred tax assets,2025-12-31,millions_usd,141
+Deferred tax assets,2024-12-31,millions_usd,696
+Other assets,2026-03-31,millions_usd,2682
+Other assets,2025-12-31,millions_usd,2130
+Other assets,2024-12-31,millions_usd,2336
+Total assets,2026-03-31,millions_usd,102094
+Total assets,2025-12-31,millions_usd,92079
+Total assets,2024-12-31,millions_usd,57062
+Accounts payable,2026-03-31,millions_usd,10002
+Accounts payable,2025-12-31,millions_usd,11792
+Accounts payable,2024-12-31,millions_usd,4413
+Deferred revenue current,2026-03-31,millions_usd,7207
+Deferred revenue current,2025-12-31,millions_usd,6111
+Deferred revenue current,2024-12-31,millions_usd,5498
+Debt and finance leases current,2026-03-31,millions_usd,1538
+Debt and finance leases current,2025-12-31,millions_usd,928
+Debt and finance leases current,2024-12-31,millions_usd,372
+Debt and finance leases current (related party portion),2026-03-31,millions_usd,1121
+Debt and finance leases current (related party portion),2025-12-31,millions_usd,455
+Debt and finance leases current (related party portion),2024-12-31,millions_usd,0
+Accrued expenses and other current liabilities,2026-03-31,millions_usd,5689
+Accrued expenses and other current liabilities,2025-12-31,millions_usd,2569
+Accrued expenses and other current liabilities,2024-12-31,millions_usd,1508
+Total current liabilities,2026-03-31,millions_usd,24436
+Total current liabilities,2025-12-31,millions_usd,21400
+Total current liabilities,2024-12-31,millions_usd,11791
+Deferred revenue net of current,2026-03-31,millions_usd,6029
+Deferred revenue net of current,2025-12-31,millions_usd,6005
+Deferred revenue net of current,2024-12-31,millions_usd,4681
+Debt and finance leases net of current,2026-03-31,millions_usd,28727
+Debt and finance leases net of current,2025-12-31,millions_usd,21968
+Debt and finance leases net of current,2024-12-31,millions_usd,13421
+Debt and finance leases net of current (related party portion),2026-03-31,millions_usd,7920
+Debt and finance leases net of current (related party portion),2025-12-31,millions_usd,4052
+Debt and finance leases net of current (related party portion),2024-12-31,millions_usd,0
+Other liabilities,2026-03-31,millions_usd,1320
+Other liabilities,2025-12-31,millions_usd,1381
+Other liabilities,2024-12-31,millions_usd,1365
+Total liabilities,2026-03-31,millions_usd,60512
+Total liabilities,2025-12-31,millions_usd,50754
+Total liabilities,2024-12-31,millions_usd,31258
+Redeemable convertible preferred stock,2026-03-31,millions_usd,7049
+Redeemable convertible preferred stock,2025-12-31,millions_usd,38752
+Redeemable convertible preferred stock,2024-12-31,millions_usd,20941
+Class A common stock,2026-03-31,millions_usd,3
+Class A common stock,2025-12-31,millions_usd,3
+Class A common stock,2024-12-31,millions_usd,2
+Class B common stock,2026-03-31,millions_usd,3
+Class B common stock,2025-12-31,millions_usd,1
+Class B common stock,2024-12-31,millions_usd,1
+Class C common stock,2026-03-31,millions_usd,0
+Class C common stock,2025-12-31,millions_usd,0
+Class C common stock,2024-12-31,millions_usd,0
+Class D common stock,2026-03-31,millions_usd,0
+Class D common stock,2025-12-31,millions_usd,0
+Class D common stock,2024-12-31,millions_usd,0
+Additional paid-in capital,2026-03-31,millions_usd,74083
+Additional paid-in capital,2025-12-31,millions_usd,37706
+Additional paid-in capital,2024-12-31,millions_usd,35865
+Accumulated deficit,2026-03-31,millions_usd,-41311
+Accumulated deficit,2025-12-31,millions_usd,-37035
+Accumulated deficit,2024-12-31,millions_usd,-32098
+Accumulated other comprehensive income,2026-03-31,millions_usd,1755
+Accumulated other comprehensive income,2025-12-31,millions_usd,1898
+Accumulated other comprehensive income,2024-12-31,millions_usd,1093
+Total shareholders' equity,2026-03-31,millions_usd,34533
+Total shareholders' equity,2025-12-31,millions_usd,2573
+Total shareholders' equity,2024-12-31,millions_usd,4863
+Total liabilities redeemable convertible preferred stock and shareholders' equity,2026-03-31,millions_usd,102094
+Total liabilities redeemable convertible preferred stock and shareholders' equity,2025-12-31,millions_usd,92079
+Total liabilities redeemable convertible preferred stock and shareholders' equity,2024-12-31,millions_usd,57062

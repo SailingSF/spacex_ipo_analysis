@@ -1,0 +1,101 @@
+line_item,period,period_type,unit,value
+Revenue,Q1-2026,quarter,millions_usd,4694
+Revenue,Q1-2025,quarter,millions_usd,4067
+Revenue,FY2025,year,millions_usd,18674
+Revenue,FY2024,year,millions_usd,14015
+Revenue,FY2023,year,millions_usd,10387
+Cost of revenue,Q1-2026,quarter,millions_usd,2388
+Cost of revenue,Q1-2025,quarter,millions_usd,1962
+Cost of revenue,FY2025,year,millions_usd,9451
+Cost of revenue,FY2024,year,millions_usd,7996
+Cost of revenue,FY2023,year,millions_usd,6110
+Research and development,Q1-2026,quarter,millions_usd,3514
+Research and development,Q1-2025,quarter,millions_usd,1557
+Research and development,FY2025,year,millions_usd,8643
+Research and development,FY2024,year,millions_usd,3464
+Research and development,FY2023,year,millions_usd,2105
+Selling general and administrative,Q1-2026,quarter,millions_usd,746
+Selling general and administrative,Q1-2025,quarter,millions_usd,493
+Selling general and administrative,FY2025,year,millions_usd,2644
+Selling general and administrative,FY2024,year,millions_usd,1813
+Selling general and administrative,FY2023,year,millions_usd,1665
+Restructuring charges (credits),Q1-2026,quarter,millions_usd,-11
+Restructuring charges (credits),Q1-2025,quarter,millions_usd,4
+Restructuring charges (credits),FY2025,year,millions_usd,487
+Restructuring charges (credits),FY2024,year,millions_usd,213
+Restructuring charges (credits),FY2023,year,millions_usd,237
+Impairment,Q1-2026,quarter,millions_usd,0
+Impairment,Q1-2025,quarter,millions_usd,24
+Impairment,FY2025,year,millions_usd,38
+Impairment,FY2024,year,millions_usd,63
+Impairment,FY2023,year,millions_usd,3775
+Total costs and expenses,Q1-2026,quarter,millions_usd,6637
+Total costs and expenses,Q1-2025,quarter,millions_usd,4040
+Total costs and expenses,FY2025,year,millions_usd,21263
+Total costs and expenses,FY2024,year,millions_usd,13549
+Total costs and expenses,FY2023,year,millions_usd,13892
+Income (loss) from operations,Q1-2026,quarter,millions_usd,-1943
+Income (loss) from operations,Q1-2025,quarter,millions_usd,27
+Income (loss) from operations,FY2025,year,millions_usd,-2589
+Income (loss) from operations,FY2024,year,millions_usd,466
+Income (loss) from operations,FY2023,year,millions_usd,-3505
+Interest expense,Q1-2026,quarter,millions_usd,-664
+Interest expense,Q1-2025,quarter,millions_usd,-447
+Interest expense,FY2025,year,millions_usd,-1945
+Interest expense,FY2024,year,millions_usd,-1580
+Interest expense,FY2023,year,millions_usd,-1693
+Interest income,Q1-2026,quarter,millions_usd,213
+Interest income,Q1-2025,quarter,millions_usd,117
+Interest income,FY2025,year,millions_usd,492
+Interest income,FY2024,year,millions_usd,371
+Interest income,FY2023,year,millions_usd,249
+Other income (expense) net,Q1-2026,quarter,millions_usd,-1876
+Other income (expense) net,Q1-2025,quarter,millions_usd,-211
+Other income (expense) net,FY2025,year,millions_usd,-177
+Other income (expense) net,FY2024,year,millions_usd,985
+Other income (expense) net,FY2023,year,millions_usd,-42
+Income (loss) before income taxes,Q1-2026,quarter,millions_usd,-4270
+Income (loss) before income taxes,Q1-2025,quarter,millions_usd,-514
+Income (loss) before income taxes,FY2025,year,millions_usd,-4219
+Income (loss) before income taxes,FY2024,year,millions_usd,242
+Income (loss) before income taxes,FY2023,year,millions_usd,-4991
+Provision for (benefit from) income taxes,Q1-2026,quarter,millions_usd,6
+Provision for (benefit from) income taxes,Q1-2025,quarter,millions_usd,14
+Provision for (benefit from) income taxes,FY2025,year,millions_usd,718
+Provision for (benefit from) income taxes,FY2024,year,millions_usd,-549
+Provision for (benefit from) income taxes,FY2023,year,millions_usd,-363
+Net income (loss),Q1-2026,quarter,millions_usd,-4276
+Net income (loss),Q1-2025,quarter,millions_usd,-528
+Net income (loss),FY2025,year,millions_usd,-4937
+Net income (loss),FY2024,year,millions_usd,791
+Net income (loss),FY2023,year,millions_usd,-4628
+Net income (loss) attributable to shareholders - basic,Q1-2026,quarter,millions_usd,-4947
+Net income (loss) attributable to shareholders - basic,Q1-2025,quarter,millions_usd,-528
+Net income (loss) attributable to shareholders - basic,FY2025,year,millions_usd,-4937
+Net income (loss) attributable to shareholders - basic,FY2024,year,millions_usd,18
+Net income (loss) attributable to shareholders - basic,FY2023,year,millions_usd,-4628
+Net income (loss) attributable to shareholders - diluted,Q1-2026,quarter,millions_usd,-4947
+Net income (loss) attributable to shareholders - diluted,Q1-2025,quarter,millions_usd,-528
+Net income (loss) attributable to shareholders - diluted,FY2025,year,millions_usd,-4937
+Net income (loss) attributable to shareholders - diluted,FY2024,year,millions_usd,21
+Net income (loss) attributable to shareholders - diluted,FY2023,year,millions_usd,-4628
+EPS basic,Q1-2026,quarter,usd_per_share,-1.27
+EPS basic,Q1-2025,quarter,usd_per_share,-0.18
+EPS basic,FY2025,year,usd_per_share,-1.69
+EPS basic,FY2024,year,usd_per_share,0.01
+EPS basic,FY2023,year,usd_per_share,-1.68
+EPS diluted,Q1-2026,quarter,usd_per_share,-1.27
+EPS diluted,Q1-2025,quarter,usd_per_share,-0.18
+EPS diluted,FY2025,year,usd_per_share,-1.69
+EPS diluted,FY2024,year,usd_per_share,0.00
+EPS diluted,FY2023,year,usd_per_share,-1.68
+Weighted average shares - basic,Q1-2026,quarter,millions_shares,3884
+Weighted average shares - basic,Q1-2025,quarter,millions_shares,2875
+Weighted average shares - basic,FY2025,year,millions_shares,2926
+Weighted average shares - basic,FY2024,year,millions_shares,2848
+Weighted average shares - basic,FY2023,year,millions_shares,2759
+Weighted average shares - diluted,Q1-2026,quarter,millions_shares,3884
+Weighted average shares - diluted,Q1-2025,quarter,millions_shares,2875
+Weighted average shares - diluted,FY2025,year,millions_shares,2926
+Weighted average shares - diluted,FY2024,year,millions_shares,9956
+Weighted average shares - diluted,FY2023,year,millions_shares,2759

@@ -1,0 +1,10 @@
+# SpaceX S-1 analysis environment
+pandas>=2.2
+matplotlib>=3.8
+numpy>=1.26
+pypdf>=6.0       # full-text search of source_docs/spacex-s1.pdf
+# notebook workspace (connectivity.ipynb)
+nbformat>=5.10
+nbclient>=0.10
+ipykernel>=7.0
+jinja2>=3.1      # pandas .style table formatting

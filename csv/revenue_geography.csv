@@ -1,0 +1,16 @@
+geography,period,period_type,unit,value
+USA,FY2025,year,millions_usd,12966
+USA,FY2024,year,millions_usd,10008
+USA,FY2023,year,millions_usd,7473
+Ireland,FY2025,year,millions_usd,1827
+Ireland,FY2024,year,millions_usd,1371
+Ireland,FY2023,year,millions_usd,1047
+Canada,FY2025,year,millions_usd,764
+Canada,FY2024,year,millions_usd,582
+Canada,FY2023,year,millions_usd,447
+All Other,FY2025,year,millions_usd,3117
+All Other,FY2024,year,millions_usd,2054
+All Other,FY2023,year,millions_usd,1420
+Total Revenues,FY2025,year,millions_usd,18674
+Total Revenues,FY2024,year,millions_usd,14015
+Total Revenues,FY2023,year,millions_usd,10387

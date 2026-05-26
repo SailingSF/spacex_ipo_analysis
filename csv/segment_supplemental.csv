@@ -1,0 +1,55 @@
+segment,metric,period,period_type,unit,value
+Space,Depreciation and amortization,Q1-2026,quarter,millions_usd,166
+Space,Depreciation and amortization,Q1-2025,quarter,millions_usd,162
+Space,Depreciation and amortization,FY2025,year,millions_usd,757
+Space,Depreciation and amortization,FY2024,year,millions_usd,637
+Space,Depreciation and amortization,FY2023,year,millions_usd,571
+Space,Share-based compensation,Q1-2026,quarter,millions_usd,145
+Space,Share-based compensation,Q1-2025,quarter,millions_usd,108
+Space,Share-based compensation,FY2025,year,millions_usd,515
+Space,Share-based compensation,FY2024,year,millions_usd,472
+Space,Share-based compensation,FY2023,year,millions_usd,427
+Space,Impairment,FY2025,year,millions_usd,38
+Space,Impairment,FY2024,year,millions_usd,24
+Space,Impairment,FY2023,year,millions_usd,0
+Space,Capital expenditures,Q1-2026,quarter,millions_usd,1052
+Space,Capital expenditures,Q1-2025,quarter,millions_usd,759
+Space,Capital expenditures,FY2025,year,millions_usd,3832
+Space,Capital expenditures,FY2024,year,millions_usd,2032
+Space,Capital expenditures,FY2023,year,millions_usd,1497
+Connectivity,Depreciation and amortization,Q1-2026,quarter,millions_usd,783
+Connectivity,Depreciation and amortization,Q1-2025,quarter,millions_usd,510
+Connectivity,Depreciation and amortization,FY2025,year,millions_usd,2376
+Connectivity,Depreciation and amortization,FY2024,year,millions_usd,1508
+Connectivity,Depreciation and amortization,FY2023,year,millions_usd,884
+Connectivity,Share-based compensation,Q1-2026,quarter,millions_usd,116
+Connectivity,Share-based compensation,Q1-2025,quarter,millions_usd,75
+Connectivity,Share-based compensation,FY2025,year,millions_usd,369
+Connectivity,Share-based compensation,FY2024,year,millions_usd,296
+Connectivity,Share-based compensation,FY2023,year,millions_usd,249
+Connectivity,Impairment,FY2025,year,millions_usd,0
+Connectivity,Impairment,FY2024,year,millions_usd,39
+Connectivity,Impairment,FY2023,year,millions_usd,0
+Connectivity,Capital expenditures,Q1-2026,quarter,millions_usd,1332
+Connectivity,Capital expenditures,Q1-2025,quarter,millions_usd,814
+Connectivity,Capital expenditures,FY2025,year,millions_usd,4178
+Connectivity,Capital expenditures,FY2024,year,millions_usd,3498
+Connectivity,Capital expenditures,FY2023,year,millions_usd,2455
+AI,Depreciation and amortization,Q1-2026,quarter,millions_usd,1493
+AI,Depreciation and amortization,Q1-2025,quarter,millions_usd,771
+AI,Depreciation and amortization,FY2025,year,millions_usd,3568
+AI,Depreciation and amortization,FY2024,year,millions_usd,1679
+AI,Depreciation and amortization,FY2023,year,millions_usd,1180
+AI,Share-based compensation,Q1-2026,quarter,millions_usd,378
+AI,Share-based compensation,Q1-2025,quarter,millions_usd,49
+AI,Share-based compensation,FY2025,year,millions_usd,1063
+AI,Share-based compensation,FY2024,year,millions_usd,16
+AI,Share-based compensation,FY2023,year,millions_usd,3
+AI,Impairment,FY2025,year,millions_usd,0
+AI,Impairment,FY2024,year,millions_usd,0
+AI,Impairment,FY2023,year,millions_usd,3775
+AI,Capital expenditures,Q1-2026,quarter,millions_usd,7723
+AI,Capital expenditures,Q1-2025,quarter,millions_usd,2567
+AI,Capital expenditures,FY2025,year,millions_usd,12727
+AI,Capital expenditures,FY2024,year,millions_usd,5633
+AI,Capital expenditures,FY2023,year,millions_usd,463

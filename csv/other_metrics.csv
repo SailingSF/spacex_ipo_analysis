@@ -1,0 +1,12 @@
+metric,period_or_date,unit,value,note
+Customer A revenue concentration,FY2025,pct_of_total_revenue,20.9,Single largest customer; relates to all three segments
+Customer A revenue concentration,FY2024,pct_of_total_revenue,24.2,
+Customer A revenue concentration,FY2023,pct_of_total_revenue,25.2,
+Equity method investment (Stateline Power LLC),2026-03-31,millions_usd,80,
+Equity method investment (Stateline Power LLC),2025-12-31,millions_usd,86,
+Equity investments without readily determinable fair value,2026-03-31,millions_usd,168,Cumulative downward adjustments of $59M as of Mar 31 2026
+Equity investments without readily determinable fair value,2025-12-31,millions_usd,157,
+SpaceX Bridge Loan effective interest rate,2026-03-31,pct,4.58,
+SpaceX Bridge Loan principal,2026-03-31,millions_usd,20000,Matures Sep 2 2027; entered Mar 2026
+Loss on debt extinguishment,Q1-2026,millions_usd,-1526,Recorded in Other expense net; refinancing of X/xAI term loans into Bridge Loan
+SpaceX Credit Facility capacity,2026-03-31,millions_usd,1500,"Increased to $5,000M via May 2026 amendment (post period)"

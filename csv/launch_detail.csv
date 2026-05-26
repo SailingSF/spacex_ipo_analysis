@@ -1,0 +1,16 @@
+category,period,period_type,unit,value
+Falcon launches total,FY2023,year,count,96
+Falcon launches total,FY2024,year,count,134
+Falcon launches total,FY2025,year,count,165
+Falcon launches total,Q1-2025,quarter,count,36
+Falcon launches total,Q1-2026,quarter,count,40
+Customer Falcon launches,FY2023,year,count,33
+Customer Falcon launches,FY2024,year,count,45
+Customer Falcon launches,FY2025,year,count,43
+Customer Falcon launches,Q1-2025,quarter,count,12
+Customer Falcon launches,Q1-2026,quarter,count,7
+Internal Starlink Falcon launches,FY2023,year,count,63
+Internal Starlink Falcon launches,FY2024,year,count,89
+Internal Starlink Falcon launches,FY2025,year,count,122
+Internal Starlink Falcon launches,Q1-2025,quarter,count,24
+Internal Starlink Falcon launches,Q1-2026,quarter,count,33

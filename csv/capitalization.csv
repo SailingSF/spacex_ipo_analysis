@@ -1,0 +1,37 @@
+section,line_item,basis,unit,value
+cash,Cash and cash equivalents,Actual,millions_usd,15852
+cash,Cash and cash equivalents,Pro Forma,millions_usd,15852
+long_term_debt,SpaceX Credit Facility,Actual,millions_usd,0
+long_term_debt,SpaceX Credit Facility,Pro Forma,millions_usd,0
+long_term_debt,SpaceX Bridge Loan,Actual,millions_usd,20000
+long_term_debt,SpaceX Bridge Loan,Pro Forma,millions_usd,20000
+long_term_debt,X 2027 and X 2030 Notes,Actual,millions_usd,27
+long_term_debt,X 2027 and X 2030 Notes,Pro Forma,millions_usd,27
+long_term_debt,Other Financings,Actual,millions_usd,9105
+long_term_debt,Other Financings,Pro Forma,millions_usd,9105
+long_term_debt,Unamortized deferred financing costs,Actual,millions_usd,-21
+long_term_debt,Unamortized deferred financing costs,Pro Forma,millions_usd,-21
+long_term_debt,Total long-term debt,Actual,millions_usd,29111
+long_term_debt,Total long-term debt,Pro Forma,millions_usd,29111
+preferred_stock,Redeemable convertible preferred stock,Actual,millions_usd,7049
+preferred_stock,Redeemable convertible preferred stock,Pro Forma,millions_usd,0
+shareholders_equity,Class A common stock,Actual,millions_usd,3
+shareholders_equity,Class A common stock,Pro Forma,millions_usd,6
+shareholders_equity,Class B common stock,Actual,millions_usd,3
+shareholders_equity,Class B common stock,Pro Forma,millions_usd,6
+shareholders_equity,Class C common stock,Actual,millions_usd,0
+shareholders_equity,Class C common stock,Pro Forma,millions_usd,0
+shareholders_equity,Class D common stock,Actual,millions_usd,0
+shareholders_equity,Class D common stock,Pro Forma,millions_usd,0
+shareholders_equity,Preferred stock,Actual,millions_usd,0
+shareholders_equity,Preferred stock,Pro Forma,millions_usd,0
+shareholders_equity,Additional paid-in capital,Actual,millions_usd,74083
+shareholders_equity,Additional paid-in capital,Pro Forma,millions_usd,81126
+shareholders_equity,Accumulated deficit,Actual,millions_usd,-41311
+shareholders_equity,Accumulated deficit,Pro Forma,millions_usd,-41311
+shareholders_equity,Accumulated other comprehensive income,Actual,millions_usd,1755
+shareholders_equity,Accumulated other comprehensive income,Pro Forma,millions_usd,1755
+shareholders_equity,Total shareholders' equity,Actual,millions_usd,34533
+shareholders_equity,Total shareholders' equity,Pro Forma,millions_usd,41582
+total,Total capitalization,Actual,millions_usd,70693
+total,Total capitalization,Pro Forma,millions_usd,70693

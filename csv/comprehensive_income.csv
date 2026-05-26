@@ -1,0 +1,26 @@
+line_item,period,period_type,unit,value
+Net income (loss),Q1-2026,quarter,millions_usd,-4276
+Net income (loss),Q1-2025,quarter,millions_usd,-528
+Net income (loss),FY2025,year,millions_usd,-4937
+Net income (loss),FY2024,year,millions_usd,791
+Net income (loss),FY2023,year,millions_usd,-4628
+Change in foreign currency translation adjustments net of tax,Q1-2026,quarter,millions_usd,-140
+Change in foreign currency translation adjustments net of tax,Q1-2025,quarter,millions_usd,257
+Change in foreign currency translation adjustments net of tax,FY2025,year,millions_usd,805
+Change in foreign currency translation adjustments net of tax,FY2024,year,millions_usd,-391
+Change in foreign currency translation adjustments net of tax,FY2023,year,millions_usd,222
+Unrealized gains (losses) on marketable securities net of tax,Q1-2026,quarter,millions_usd,-3
+Unrealized gains (losses) on marketable securities net of tax,Q1-2025,quarter,millions_usd,2
+Unrealized gains (losses) on marketable securities net of tax,FY2025,year,millions_usd,0
+Unrealized gains (losses) on marketable securities net of tax,FY2024,year,millions_usd,-1
+Unrealized gains (losses) on marketable securities net of tax,FY2023,year,millions_usd,1
+Other comprehensive income (loss),Q1-2026,quarter,millions_usd,-143
+Other comprehensive income (loss),Q1-2025,quarter,millions_usd,259
+Other comprehensive income (loss),FY2025,year,millions_usd,805
+Other comprehensive income (loss),FY2024,year,millions_usd,-392
+Other comprehensive income (loss),FY2023,year,millions_usd,223
+Comprehensive income (loss),Q1-2026,quarter,millions_usd,-4419
+Comprehensive income (loss),Q1-2025,quarter,millions_usd,-269
+Comprehensive income (loss),FY2025,year,millions_usd,-4132
+Comprehensive income (loss),FY2024,year,millions_usd,399
+Comprehensive income (loss),FY2023,year,millions_usd,-4405

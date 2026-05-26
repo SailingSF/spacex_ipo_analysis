@@ -1,0 +1,41 @@
+breakdown,segment,category,period,period_type,unit,value
+by_product_service,All,Products,Q1-2026,quarter,millions_usd,380
+by_product_service,All,Products,Q1-2025,quarter,millions_usd,352
+by_product_service,All,Products,FY2025,year,millions_usd,1510
+by_product_service,All,Products,FY2024,year,millions_usd,1470
+by_product_service,All,Products,FY2023,year,millions_usd,1093
+by_product_service,All,Services,Q1-2026,quarter,millions_usd,4314
+by_product_service,All,Services,Q1-2025,quarter,millions_usd,3715
+by_product_service,All,Services,FY2025,year,millions_usd,17164
+by_product_service,All,Services,FY2024,year,millions_usd,12545
+by_product_service,All,Services,FY2023,year,millions_usd,9294
+by_type_segment,Space,Launch Services,Q1-2026,quarter,millions_usd,330
+by_type_segment,Space,Launch Services,Q1-2025,quarter,millions_usd,566
+by_type_segment,Space,Launch Services,FY2025,year,millions_usd,2576
+by_type_segment,Space,Launch Services,FY2024,year,millions_usd,2584
+by_type_segment,Space,Launch Services,FY2023,year,millions_usd,1964
+by_type_segment,Space,Launch & Development,Q1-2026,quarter,millions_usd,289
+by_type_segment,Space,Launch & Development,Q1-2025,quarter,millions_usd,299
+by_type_segment,Space,Launch & Development,FY2025,year,millions_usd,1510
+by_type_segment,Space,Launch & Development,FY2024,year,millions_usd,1212
+by_type_segment,Space,Launch & Development,FY2023,year,millions_usd,1593
+by_type_segment,Connectivity,Consumer,Q1-2026,quarter,millions_usd,2148
+by_type_segment,Connectivity,Consumer,Q1-2025,quarter,millions_usd,1492
+by_type_segment,Connectivity,Consumer,FY2025,year,millions_usd,7208
+by_type_segment,Connectivity,Consumer,FY2024,year,millions_usd,4830
+by_type_segment,Connectivity,Consumer,FY2023,year,millions_usd,2817
+by_type_segment,Connectivity,Enterprise & Government,Q1-2026,quarter,millions_usd,1109
+by_type_segment,Connectivity,Enterprise & Government,Q1-2025,quarter,millions_usd,983
+by_type_segment,Connectivity,Enterprise & Government,FY2025,year,millions_usd,4179
+by_type_segment,Connectivity,Enterprise & Government,FY2024,year,millions_usd,2769
+by_type_segment,Connectivity,Enterprise & Government,FY2023,year,millions_usd,1052
+by_type_segment,AI,Advertising,Q1-2026,quarter,millions_usd,343
+by_type_segment,AI,Advertising,Q1-2025,quarter,millions_usd,443
+by_type_segment,AI,Advertising,FY2025,year,millions_usd,1844
+by_type_segment,AI,Advertising,FY2024,year,millions_usd,1728
+by_type_segment,AI,Advertising,FY2023,year,millions_usd,2323
+by_type_segment,AI,AI Solutions & Infrastructure,Q1-2026,quarter,millions_usd,475
+by_type_segment,AI,AI Solutions & Infrastructure,Q1-2025,quarter,millions_usd,284
+by_type_segment,AI,AI Solutions & Infrastructure,FY2025,year,millions_usd,1357
+by_type_segment,AI,AI Solutions & Infrastructure,FY2024,year,millions_usd,892
+by_type_segment,AI,AI Solutions & Infrastructure,FY2023,year,millions_usd,638

@@ -1,0 +1,8 @@
+.venv/
+output/
+__pycache__/
+.DS_Store
+.env
+source_docs/
+MANIFEST.md
+.claude/

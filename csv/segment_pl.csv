@@ -1,0 +1,121 @@
+segment,line_item,period,period_type,unit,value
+Space,Revenue,Q1-2026,quarter,millions_usd,619
+Space,Revenue,Q1-2025,quarter,millions_usd,865
+Space,Revenue,FY2025,year,millions_usd,4086
+Space,Revenue,FY2024,year,millions_usd,3796
+Space,Revenue,FY2023,year,millions_usd,3557
+Space,Cost of revenue,Q1-2026,quarter,millions_usd,281
+Space,Cost of revenue,Q1-2025,quarter,millions_usd,297
+Space,Cost of revenue,FY2025,year,millions_usd,1352
+Space,Cost of revenue,FY2024,year,millions_usd,1541
+Space,Cost of revenue,FY2023,year,millions_usd,1669
+Space,Research and development,Q1-2026,quarter,millions_usd,930
+Space,Research and development,Q1-2025,quarter,millions_usd,526
+Space,Research and development,FY2025,year,millions_usd,3004
+Space,Research and development,FY2024,year,millions_usd,1835
+Space,Research and development,FY2023,year,millions_usd,1538
+Space,Selling general and administrative,Q1-2026,quarter,millions_usd,70
+Space,Selling general and administrative,Q1-2025,quarter,millions_usd,88
+Space,Selling general and administrative,FY2025,year,millions_usd,349
+Space,Selling general and administrative,FY2024,year,millions_usd,375
+Space,Selling general and administrative,FY2023,year,millions_usd,351
+Space,Restructuring charges,Q1-2026,quarter,millions_usd,0
+Space,Restructuring charges,Q1-2025,quarter,millions_usd,0
+Space,Restructuring charges,FY2025,year,millions_usd,0
+Space,Restructuring charges,FY2024,year,millions_usd,0
+Space,Restructuring charges,FY2023,year,millions_usd,0
+Space,Impairment,Q1-2026,quarter,millions_usd,0
+Space,Impairment,Q1-2025,quarter,millions_usd,24
+Space,Impairment,FY2025,year,millions_usd,38
+Space,Impairment,FY2024,year,millions_usd,24
+Space,Impairment,FY2023,year,millions_usd,0
+Space,Total costs and expenses,Q1-2026,quarter,millions_usd,1281
+Space,Total costs and expenses,Q1-2025,quarter,millions_usd,935
+Space,Total costs and expenses,FY2025,year,millions_usd,4743
+Space,Total costs and expenses,FY2024,year,millions_usd,3775
+Space,Total costs and expenses,FY2023,year,millions_usd,3558
+Space,Income (loss) from operations,Q1-2026,quarter,millions_usd,-662
+Space,Income (loss) from operations,Q1-2025,quarter,millions_usd,-70
+Space,Income (loss) from operations,FY2025,year,millions_usd,-657
+Space,Income (loss) from operations,FY2024,year,millions_usd,21
+Space,Income (loss) from operations,FY2023,year,millions_usd,-1
+Connectivity,Revenue,Q1-2026,quarter,millions_usd,3257
+Connectivity,Revenue,Q1-2025,quarter,millions_usd,2475
+Connectivity,Revenue,FY2025,year,millions_usd,11387
+Connectivity,Revenue,FY2024,year,millions_usd,7599
+Connectivity,Revenue,FY2023,year,millions_usd,3869
+Connectivity,Cost of revenue,Q1-2026,quarter,millions_usd,1651
+Connectivity,Cost of revenue,Q1-2025,quarter,millions_usd,1214
+Connectivity,Cost of revenue,FY2025,year,millions_usd,5921
+Connectivity,Cost of revenue,FY2024,year,millions_usd,4768
+Connectivity,Cost of revenue,FY2023,year,millions_usd,2786
+Connectivity,Research and development,Q1-2026,quarter,millions_usd,205
+Connectivity,Research and development,Q1-2025,quarter,millions_usd,123
+Connectivity,Research and development,FY2025,year,millions_usd,575
+Connectivity,Research and development,FY2024,year,millions_usd,453
+Connectivity,Research and development,FY2023,year,millions_usd,381
+Connectivity,Selling general and administrative,Q1-2026,quarter,millions_usd,213
+Connectivity,Selling general and administrative,Q1-2025,quarter,millions_usd,105
+Connectivity,Selling general and administrative,FY2025,year,millions_usd,468
+Connectivity,Selling general and administrative,FY2024,year,millions_usd,333
+Connectivity,Selling general and administrative,FY2023,year,millions_usd,233
+Connectivity,Restructuring charges,Q1-2026,quarter,millions_usd,0
+Connectivity,Restructuring charges,Q1-2025,quarter,millions_usd,0
+Connectivity,Restructuring charges,FY2025,year,millions_usd,0
+Connectivity,Restructuring charges,FY2024,year,millions_usd,0
+Connectivity,Restructuring charges,FY2023,year,millions_usd,0
+Connectivity,Impairment,Q1-2026,quarter,millions_usd,0
+Connectivity,Impairment,Q1-2025,quarter,millions_usd,0
+Connectivity,Impairment,FY2025,year,millions_usd,0
+Connectivity,Impairment,FY2024,year,millions_usd,39
+Connectivity,Impairment,FY2023,year,millions_usd,0
+Connectivity,Total costs and expenses,Q1-2026,quarter,millions_usd,2069
+Connectivity,Total costs and expenses,Q1-2025,quarter,millions_usd,1442
+Connectivity,Total costs and expenses,FY2025,year,millions_usd,6964
+Connectivity,Total costs and expenses,FY2024,year,millions_usd,5593
+Connectivity,Total costs and expenses,FY2023,year,millions_usd,3400
+Connectivity,Income (loss) from operations,Q1-2026,quarter,millions_usd,1188
+Connectivity,Income (loss) from operations,Q1-2025,quarter,millions_usd,1033
+Connectivity,Income (loss) from operations,FY2025,year,millions_usd,4423
+Connectivity,Income (loss) from operations,FY2024,year,millions_usd,2006
+Connectivity,Income (loss) from operations,FY2023,year,millions_usd,469
+AI,Revenue,Q1-2026,quarter,millions_usd,818
+AI,Revenue,Q1-2025,quarter,millions_usd,727
+AI,Revenue,FY2025,year,millions_usd,3201
+AI,Revenue,FY2024,year,millions_usd,2620
+AI,Revenue,FY2023,year,millions_usd,2961
+AI,Cost of revenue,Q1-2026,quarter,millions_usd,456
+AI,Cost of revenue,Q1-2025,quarter,millions_usd,451
+AI,Cost of revenue,FY2025,year,millions_usd,2178
+AI,Cost of revenue,FY2024,year,millions_usd,1687
+AI,Cost of revenue,FY2023,year,millions_usd,1655
+AI,Research and development,Q1-2026,quarter,millions_usd,2379
+AI,Research and development,Q1-2025,quarter,millions_usd,908
+AI,Research and development,FY2025,year,millions_usd,5064
+AI,Research and development,FY2024,year,millions_usd,1176
+AI,Research and development,FY2023,year,millions_usd,186
+AI,Selling general and administrative,Q1-2026,quarter,millions_usd,463
+AI,Selling general and administrative,Q1-2025,quarter,millions_usd,300
+AI,Selling general and administrative,FY2025,year,millions_usd,1827
+AI,Selling general and administrative,FY2024,year,millions_usd,1105
+AI,Selling general and administrative,FY2023,year,millions_usd,1081
+AI,Restructuring charges,Q1-2026,quarter,millions_usd,-11
+AI,Restructuring charges,Q1-2025,quarter,millions_usd,4
+AI,Restructuring charges,FY2025,year,millions_usd,487
+AI,Restructuring charges,FY2024,year,millions_usd,213
+AI,Restructuring charges,FY2023,year,millions_usd,237
+AI,Impairment,Q1-2026,quarter,millions_usd,0
+AI,Impairment,Q1-2025,quarter,millions_usd,0
+AI,Impairment,FY2025,year,millions_usd,0
+AI,Impairment,FY2024,year,millions_usd,0
+AI,Impairment,FY2023,year,millions_usd,3775
+AI,Total costs and expenses,Q1-2026,quarter,millions_usd,3287
+AI,Total costs and expenses,Q1-2025,quarter,millions_usd,1663
+AI,Total costs and expenses,FY2025,year,millions_usd,9556
+AI,Total costs and expenses,FY2024,year,millions_usd,4181
+AI,Total costs and expenses,FY2023,year,millions_usd,6934
+AI,Income (loss) from operations,Q1-2026,quarter,millions_usd,-2469
+AI,Income (loss) from operations,Q1-2025,quarter,millions_usd,-936
+AI,Income (loss) from operations,FY2025,year,millions_usd,-6355
+AI,Income (loss) from operations,FY2024,year,millions_usd,-1561
+AI,Income (loss) from operations,FY2023,year,millions_usd,-3973

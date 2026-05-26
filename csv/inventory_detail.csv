@@ -1,0 +1,9 @@
+component,date,unit,value
+Raw materials,2025-12-31,millions_usd,1030
+Raw materials,2024-12-31,millions_usd,923
+Work-in-progress,2025-12-31,millions_usd,803
+Work-in-progress,2024-12-31,millions_usd,730
+Finished goods,2025-12-31,millions_usd,583
+Finished goods,2024-12-31,millions_usd,350
+Inventory total,2025-12-31,millions_usd,2416
+Inventory total,2024-12-31,millions_usd,2003

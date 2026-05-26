@@ -1,0 +1,30 @@
+instrument,date,principal,deferred_financing_costs,net
+SpaceX Bridge Loan,2026-03-31,20000,21,19979
+X 2027 and X 2030 Notes,2026-03-31,27,0,27
+Other financings,2026-03-31,9105,0,9105
+Total debt,2026-03-31,29132,21,29111
+Finance lease liability,2026-03-31,1154,0,1154
+Total debt and finance leases,2026-03-31,30286,21,30265
+Less: Short-term portion,2026-03-31,1538,0,1538
+Total debt and finance leases net of current,2026-03-31,28748,21,28727
+X 2027 and X 2030 Notes,2025-12-31,27,0,27
+X B-1 Term Loan,2025-12-31,6504,280,6224
+X B-3 Term Loan,2025-12-31,5966,54,5912
+xAI Fixed Rate Term Loan,2025-12-31,995,4,991
+xAI Floating Rate Term Loan,2025-12-31,995,40,955
+xAI 12.5% Secured Senior Notes,2025-12-31,3000,12,2988
+Other financings,2025-12-31,4562,0,4562
+Total debt,2025-12-31,22049,390,21659
+Finance lease liability,2025-12-31,1237,0,1237
+Total debt and finance leases,2025-12-31,23286,390,22896
+Less: Short-term portion,2025-12-31,928,0,928
+Total debt and finance leases net of current,2025-12-31,22358,390,21968
+X 2027 and X 2030 Notes,2024-12-31,27,0,27
+X B-1 Term Loan,2024-12-31,6571,359,6212
+X Bridge Credit Facilities,2024-12-31,5966,0,5966
+Other financings,2024-12-31,57,0,57
+Total debt,2024-12-31,12621,359,12262
+Finance lease liability,2024-12-31,1531,0,1531
+Total debt and finance leases,2024-12-31,14152,359,13793
+Less: Short-term portion,2024-12-31,372,0,372
+Total debt and finance leases net of current,2024-12-31,13780,359,13421

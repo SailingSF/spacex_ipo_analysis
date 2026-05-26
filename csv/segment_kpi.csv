@@ -1,0 +1,26 @@
+segment,metric,unit,period,period_type,value
+Space,Mass to Orbit,metric_tons,Q1-2026,quarter,556
+Space,Mass to Orbit,metric_tons,Q1-2025,quarter,450
+Space,Mass to Orbit,metric_tons,FY2025,year,2213
+Space,Mass to Orbit,metric_tons,FY2024,year,1699
+Space,Mass to Orbit,metric_tons,FY2023,year,1210
+Space,Launches,count,Q1-2026,quarter,40
+Space,Launches,count,Q1-2025,quarter,38
+Space,Launches,count,FY2025,year,170
+Space,Launches,count,FY2024,year,138
+Space,Launches,count,FY2023,year,98
+Connectivity,Starlink Subscribers,millions,Q1-2026,quarter,10.3
+Connectivity,Starlink Subscribers,millions,Q1-2025,quarter,5.0
+Connectivity,Starlink Subscribers,millions,FY2025,year,8.9
+Connectivity,Starlink Subscribers,millions,FY2024,year,4.4
+Connectivity,Starlink Subscribers,millions,FY2023,year,2.3
+Connectivity,Starlink ARPU,usd_per_month,Q1-2026,quarter,66
+Connectivity,Starlink ARPU,usd_per_month,Q1-2025,quarter,86
+Connectivity,Starlink ARPU,usd_per_month,FY2025,year,81
+Connectivity,Starlink ARPU,usd_per_month,FY2024,year,91
+Connectivity,Starlink ARPU,usd_per_month,FY2023,year,99
+AI,Nameplate compute draw,gigawatts,Q1-2026,quarter,1
+AI,Nameplate compute draw,gigawatts,Q1-2025,quarter,0.3
+AI,Nameplate compute draw,gigawatts,FY2025,year,0.8
+AI,Nameplate compute draw,gigawatts,FY2024,year,0.3
+AI,Nameplate compute draw,gigawatts,FY2023,year,0
