@@ -22,7 +22,9 @@ Saved figures land in `output/figures/`.
    - **FCF = cash from operations − capex**, where segment CFO = operating income + non-cash charges
      (D&A + SBC + impairment), ΔWC excluded (conservative — Starlink subs are prepaid). FCF traces a
      J-curve: −$0.9B (2023) → +$0.4B (2024) → +$3.0B (2025). Segment D&A/SBC/capex tie to the
-     consolidated cash-flow statement.
+     consolidated cash-flow statement. Charts annualize the partial Q1-2026 quarter into a hatched
+     **FY2026E** (FY2025 grown at each line's Q1 YoY rate) so the series stays full-year comparable;
+     it shows revenue +32% and EBITDA rising while FCF holds ~flat as capex reinvestment accelerates.
    - Opportunity cost of Starlink-dedicated rockets ≈ $0 (backfills idle capacity).
 
 **EBITDA policy:** EBITDA is shown **only for comparison** — never used in a calculation. For SpaceX it
