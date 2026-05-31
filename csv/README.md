@@ -29,6 +29,8 @@ $ and % changes are intentionally omitted (trivially recomputed).
 | `revenue_disaggregation.csv` | by product/service & by type+segment | 5 periods |
 | `revenue_geography.csv` | geography × period | FY only |
 | `debt_schedule.csv` | instrument × date (principal / DFC / net) | 3 dates |
+| `debt_terms.csv` | instrument × date (status, rate, effective rate, maturity, secured) | Mar 31 2026 current + Dec 31 2025 extinguished |
+| `debt_maturities.csv` | scheduled principal maturity × year (as filed) | as of Dec 31 2025 |
 | `capitalization.csv` | line item × basis (Actual / Pro Forma) | Mar 31 2026 |
 | `inventory_detail.csv` | component × date | 2 dates |
 | `ppe_detail.csv` | component × date | 2 dates |
