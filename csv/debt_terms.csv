@@ -1,0 +1,16 @@
+instrument,as_of_date,status,principal,secured,rate_type,stated_rate,effective_rate_pct,maturity_date,notes
+SpaceX Bridge Loan,2026-03-31,current,20000,unsecured,floating,Term SOFR + 0.75%-1.75%,4.58,2027-09-02,Matures Sep 2 2027 with two 3-mo extensions to Mar 2028; must repay from IPO net proceeds within 6 months; duration fees 0.125% (yr1) + 0.25% (15-mo)
+X 2027 Notes,2026-03-31,current,25,unsecured,fixed,3.875%,,2027-12-15,"Senior unsecured notes; $700M issued 2019, ~$675M repurchased 2022"
+X 2030 Notes,2026-03-31,current,2,unsecured,fixed,5.000%,,2030-03-01,"Senior unsecured notes; $1000M issued 2022, ~$998M repurchased 2022"
+Other financings,2026-03-31,current,9105,secured,fixed,~5.5% avg,,various,"Equipment financings (monthly P&I) plus ~$4,507M AI-infrastructure failed sale-leaseback debt"
+Finance lease liability,2026-03-31,current,1154,n/a,n/a,n/a,,various,Finance leases
+SpaceX Credit Facility,2026-03-31,undrawn,0,unsecured,floating,Term SOFR + 0.75%-1.25%,,2030-02-07,$1500M revolver undrawn; amended May 2026 to $5000M capacity / May 19 2031 maturity
+X B-1 Term Loan,2025-12-31,extinguished,6504,secured,floating,Term SOFR + 6.50%,12.40,2029-10-27,First lien; repaid Mar 2026 with Bridge Loan proceeds
+X B-3 Term Loan,2025-12-31,extinguished,5966,secured,fixed,9.50%,9.80,2029-10-27,First lien; repaid Mar 2026 with Bridge Loan proceeds
+xAI Fixed Rate Term Loan,2025-12-31,extinguished,995,secured,fixed,12.50%,11.91,2030-06-30,First lien; repaid Mar 2026 with Bridge Loan proceeds
+xAI Floating Rate Term Loan,2025-12-31,extinguished,995,secured,floating,Term SOFR + 7.25%,12.48,2030-06-30,First lien; repaid Mar 2026 with Bridge Loan proceeds
+xAI 12.5% Secured Senior Notes,2025-12-31,extinguished,3000,secured,fixed,12.50%,12.50,2030-06-30,Senior secured notes; repaid Mar 2026 with Bridge Loan proceeds
+X 2027 Notes,2025-12-31,current,25,unsecured,fixed,3.875%,,2027-12-15,Senior unsecured notes
+X 2030 Notes,2025-12-31,current,2,unsecured,fixed,5.000%,,2030-03-01,Senior unsecured notes
+Other financings,2025-12-31,current,4562,secured,fixed,~5.3% avg,,various,"Equipment financings plus AI-infrastructure failed sale-leaseback debt ($4,507M recorded Nov 2025)"
+Finance lease liability,2025-12-31,current,1237,n/a,n/a,n/a,,various,Finance leases
