@@ -44,6 +44,8 @@ DATASETS = [
     "revenue_disaggregation",
     "revenue_geography",
     "debt_schedule",
+    "debt_terms",
+    "debt_maturities",
     "capitalization",
     "inventory_detail",
     "ppe_detail",
