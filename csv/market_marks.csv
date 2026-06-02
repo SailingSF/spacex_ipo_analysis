@@ -1,0 +1,7 @@
+entity,mark_usd_b,as_of,reliability,source_url,note
+SpaceX,350,2024-12,established,https://www.bitmex.com/blog/spacex-ipo-guide,"Dec-2024 employee tender offer ~$350B. The conservative anchor the DCF was built against; used as the primary private-mark reference line."
+SpaceX,800,2025-12,speculative,https://www.youtube.com/watch?v=dxyJl4IhSRE,"Reported Dec-2025 tender ~$800B. Single-source / unverified; treat as directional only."
+SpaceX+xAI,1250,2026-02,speculative,https://techcrunch.com/2026/01/06/xai-says-it-raised-20b-in-series-e-funding/,"Reported SpaceX-xAI merger valuing the combined entity ~$1.25T (Bloomberg via TechCrunch). Unverified; combined entity, not comparable to the S-1 standalone."
+SpaceX,1750,2026,speculative,https://www.kavout.com/market-lens/is-spacex-s-1-75-trillion-ipo-a-game-changer-for-public-markets,"Reported IPO-day target ~$1.75T. Hype-blog sourcing; low reliability, shown only as a ceiling annotation."
+xAI,230,2026-01,established,https://x.ai/news/series-e,"Series E: $20B raised (Nvidia, Cisco, Fidelity, QIA, MGX) at ~$230B post-money. The solid standalone AI private mark; the external upper anchor for the AI bar."
+xAI,250,2026,reported,https://tsginvest.com/xai/,"Later secondary ~$250B. Secondary-market mark; medium reliability."

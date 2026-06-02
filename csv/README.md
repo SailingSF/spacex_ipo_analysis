@@ -38,6 +38,16 @@ $ and % changes are intentionally omitted (trivially recomputed).
 | `space_revenue_mix_pct.csv` | Launch Svc vs Launch & Dev as % of Space rev | 5 periods |
 | `other_metrics.csv` | misc (customer concentration, affiliate investments, debt terms) | mixed |
 
+## External data — NOT from the S-1 (quarantined, for the valuation football field)
+These two files are the **only** non-S-1 data in `csv/`. They hold market/peer inputs for the
+multi-method valuation (`notebooks/valuation.ipynb`) and must stay visually and provenance-distinct
+from the filed financials. Every row is date-stamped (`as_of`) and carries a `source_url`; do not
+mix them into reconciliation or treat them as facts.
+| File | Grain | Notes |
+|---|---|---|
+| `comps.csv` | segment × valuation metric (multiple band) | **EXTERNAL.** Peer-multiple bands (EV/revenue, EV/EBITDA) by segment + anchor comps & rationale. Multiples only — the S-1 segment metric they multiply comes from `analysis/`. |
+| `market_marks.csv` | entity × dated private/secondary mark | **EXTERNAL.** SpaceX / xAI private-round & secondary valuations, each with a `reliability` flag (`established` / `reported` / `speculative`). $350B (Dec-2024) is the conservative anchor; trillion-plus figures are speculative chatter, shown only as ceiling annotations. |
+
 ## Validation
 `validate.py` re-checks that subtotals reconcile (segments → consolidated, components → totals,
 disaggregated revenue → segment revenue, etc.). Run: `python3 validate.py`.
