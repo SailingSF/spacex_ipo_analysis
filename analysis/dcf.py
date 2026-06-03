@@ -58,7 +58,7 @@ from dataclasses import dataclass, field
 import numpy as np
 import pandas as pd
 
-from analysis.connectivity_economics import ConnectivityModel
+from analysis.connectivity_economics import ConnectivityModel, project_connectivity_flywheel
 from analysis.space_economics import SpaceModel, SS_YEAR, project_space_forward
 from analysis.ai_economics import AIModel
 
@@ -108,7 +108,16 @@ def _actuals():
 
 
 def _conn(scn: str, C: pd.DataFrame) -> pd.DataFrame:
-    """Connectivity FCF path: subs x ARPU, op-margin held, capex/D&A glide."""
+    """Connectivity FCF path: subs x ARPU, op-margin held, capex/D&A glide.
+
+    The **Bull** path is the §7.7 affordability-cost *flywheel* (ARPU down, subs up,
+    margin computed from Starship launch economics) — the canonical engine in
+    ``connectivity_economics.project_connectivity_flywheel`` — wired in here per the
+    user's choice to fold the flywheel into the bull case. Bear/Base keep the dialed
+    subs-x-ARPU glide below.
+    """
+    if scn == "Bull":
+        return project_connectivity_flywheel(R=C)
     p = CN[scn]
     nonc0 = C.loc["FY2025", "revenue"] - (4.4 + 8.9) / 2 * ARPU0 * 12  # FY2025 non-consumer revenue
     subs = [SUBS0]
