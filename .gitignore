@@ -1,4 +1,5 @@
 .venv/
+.mplconfig/
 output/
 __pycache__/
 .DS_Store
