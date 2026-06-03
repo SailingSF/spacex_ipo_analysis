@@ -47,6 +47,7 @@ mix them into reconciliation or treat them as facts.
 |---|---|---|
 | `comps.csv` | segment × valuation metric (multiple band) | **EXTERNAL.** Peer-multiple bands (EV/revenue, EV/EBITDA) by segment + anchor comps & rationale. Multiples only — the S-1 segment metric they multiply comes from `analysis/`. |
 | `market_marks.csv` | entity × dated private/secondary mark | **EXTERNAL.** SpaceX / xAI private-round & secondary valuations, each with a `reliability` flag (`established` / `reported` / `speculative`). $350B (Dec-2024) is the conservative anchor; trillion-plus figures are speculative chatter, shown only as ceiling annotations. |
+| `ai_labs.csv` | frontier-lab / hyperscaler × valuation + revenue mark | **EXTERNAL.** Frontier-AI-lab marks (OpenAI, Anthropic, xAI) + a hyperscaler (Alphabet) with implied `ev_rev_mult`, for the `$1T-bridge` reverse-valuation in `notebooks/valuation.ipynb` (`analysis/trillion.py`). Several rows were seeded from training knowledge while the live-search API was unavailable — flagged in `note` as **UNVERIFIED at build; refresh** and with `reliability` set accordingly. Refresh + pin the specific `source_url` before relying on them. |
 
 ## Validation
 `validate.py` re-checks that subtotals reconcile (segments → consolidated, components → totals,
