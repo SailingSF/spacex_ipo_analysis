@@ -336,7 +336,7 @@ def agi_lottery_table(prize_b: float = 10_000.0, floor_mult: float = 12.0,
         rows.append(dict(entity=ent, kind="lab", valuation_b=float(r.valuation_usd_b),
                          runrate_b=float(r.rev_runrate_usd_b)))
     ai_req_b = required_ai_ev(target_equity_b, a=a)["ai_required_ev"] / 1000
-    rows.append(dict(entity=f"SpaceX·AI (implied @ ${target_equity_b/1000:.0f}T)",
+    rows.append(dict(entity=f"SpaceX·AI (implied @ ${target_equity_b/1000:.2f}T)",
                      kind="spacex", valuation_b=ai_req_b, runrate_b=_spacex_ai_runrate_b()))
     df = pd.DataFrame(rows)
     df["floor_b"] = floor_mult * df.runrate_b
@@ -389,6 +389,69 @@ def super_bull_ev_grid(gws, prices, util: float = 0.88, chip_life: float = 6.0,
             d = AISuperBull(gw=g, util=util, price=p, chip_life=chip_life, rm=rm)
             grid.loc[f"{p:.1f}", f"{g:.0f}"] = super_bull_ai_ev(d, a)["ev"] / 1000
     return grid
+
+
+# =============================================================================
+# 9. The whole-company $1.77T bull — spread the bet across every segment
+# =============================================================================
+# The AI-only bridge says AI must carry ~$1.55T for a $1.77T company — more than
+# OpenAI + Anthropic combined. The real bull doesn't put it all on AI; it gives
+# EVERY segment its category-monopoly best case. These helpers size those mega-bulls
+# so the notebook can show the $1.77T as a *stack* of best-cases, not one heroic line.
+IPO_PRICE_B = 1770.0       # SpaceX IPO: $135/share x ~13.1B shares (Jun-2026, Nasdaq:SPCX, $75B raise)
+IPO_SHARE_PRICE = 135.0
+
+
+def connectivity_megabull_b(revenue_b: float = 100.0, ev_rev: float = 7.0) -> float:
+    """Starlink 'global telecom' mega-bull EV ($B) = revenue x EV/revenue.
+
+    ``revenue_b``: direct-to-cell + broadband + enterprise/gov/maritime/aviation, vs the
+    ~$11B FY2025 actual. ``ev_rev``: the comps.csv Connectivity band is 6-10x; the mega-bull
+    assumes Starlink holds that premium even at telecom-replacement scale.
+    """
+    return revenue_b * ev_rev
+
+
+def space_megabull_b(revenue_b: float = 60.0, ev_rev: float = 7.0) -> float:
+    """Space 'launch + logistics monopoly' mega-bull EV ($B) = revenue x EV/revenue.
+
+    ``revenue_b``: commercial launch + national-security + Starship cargo + point-to-point
+    Earth transport + lunar/Mars + in-space manufacturing, vs the ~$4B FY2025 *customer*
+    revenue (internal Starlink launches are unbooked). Rocket Lab trades 16-64x revenue;
+    we stay deliberately conservative at single-digit multiples on a much bigger base.
+    """
+    return revenue_b * ev_rev
+
+
+def maximal_sotp(target_b: float = IPO_PRICE_B, conn_b: float = 700.0,
+                 space_b: float = 350.0, a: dcf.ValuationAssumptions | None = None) -> dict:
+    """Stack generous segment mega-bulls; AI is the residual to reach the target ($B, EV-space).
+
+    Even handing Starlink and Space their global-monopoly best cases, whatever is left for AI
+    is the *minimum* AI value the price still requires. Returns the components in $B.
+    """
+    a = a or dcf.default_assumptions()
+    nd = a.net_debt / 1000
+    ai_resid = target_b + nd - conn_b - space_b
+    return dict(target=target_b, conn=conn_b, space=space_b,
+                ai_resid=ai_resid, net_debt=nd, nonai=conn_b + space_b)
+
+
+# Orbital-datacenter economics, from the author's analysis
+# (https://goodatinvesting.com/website/gpus-in-space/): putting GPUs in orbit costs
+# ~4.2x terrestrial PER UNIT OF COMPUTE, dominated by launch + solar + radiators. So
+# "space compute" makes the AI build MORE expensive, not less — the opposite of the moat.
+ORBITAL_DC = dict(
+    terrestrial_cost_per_gw_b=50.0,   # ~$50B/GW (Stargate-class full datacenter: ~$500B / 10GW)
+    orbital_cost_per_gw_b=210.0,      # ~$210B/GW (the author's $42B for a 200MW build)
+    premium_x=4.2,                    # orbital / terrestrial cost per unit compute
+    gpu_cost_share=0.112,             # GPUs are ~11% of the orbital bill ($4.72B of $42B)...
+    space_premium_share=0.888,        # ...the other ~89% is launch + solar + radiators
+    radiator_m2_per_8gpu=243.4,       # ~a tennis court of radiator per 8 GPUs (cool only by radiation)
+    radiator_kg_per_8gpu=486.7,
+    launch_usd_per_kg_leo=2500,       # SpaceX $/kg to 550km
+    launch_usd_per_kg_meo=5500,       # to 7,000km (Hohmann transfer, ~2.2x)
+)
 
 
 if __name__ == "__main__":  # quick smoke test / reverse-engineering summary
