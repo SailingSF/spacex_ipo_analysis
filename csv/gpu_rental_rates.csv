@@ -1,0 +1,19 @@
+series,gpu,date,usd_per_hr,usd_per_hr_low,usd_per_hr_high,basis,launch_year,as_of,reliability,source_url,note
+h100_marketplace,H100,2023-06,8.00,,,peak open-market on-demand,2022,2026-06,reported,https://www.latent.space/p/gpu-bubble,"2023 scarcity peak: launch list ~$4.70/hr but open-market deals routinely $8+/hr ('$2 H100s: How the GPU Bubble Burst')."
+h100_marketplace,H100,2024-01,2.85,,,multi-provider on-demand average,2022,2026-06,reported,https://medium.com/@cli_87015/a-correction-in-compute-tracing-the-decline-in-h100-rental-prices-af02da399f5a,"Early-2024 level after NVIDIA supply ramp; corroborated by SiliconData."
+h100_marketplace,H100,2024-09,2.58,2.50,3.19,marketplace median Jun-Dec 2024,2022,2026-06,reported,https://www.silicondata.com/blog/h100-rental-price-over-time,"SiliconData marketplace bucket median."
+h100_marketplace,H100,2025-03,2.29,2.27,2.46,marketplace median Jan-May 2025,2022,2026-06,reported,https://www.silicondata.com/blog/h100-rental-price-over-time,"SiliconData marketplace bucket median."
+h100_marketplace,H100,2025-06,2.00,,,marketplace median Jun 2025,2022,2026-06,reported,https://www.silicondata.com/blog/h100-rental-price-over-time,"SiliconData marketplace median."
+h100_marketplace,H100,2025-10,1.95,1.92,2.00,marketplace median Jul-Dec 2025,2022,2026-06,reported,https://www.silicondata.com/blog/h100-rental-price-over-time,"SiliconData marketplace bucket median."
+h100_marketplace,H100,2026-06,2.24,1.49,2.99,neocloud on-demand band (midpoint),2022,2026-06,reported,https://intuitionlabs.ai/articles/h100-rental-prices-cloud-comparison,"Boutique/neocloud on-demand range $1.49-2.99 (Lambda RunPod Vast Cudo); cross-provider average incl hyperscalers $3.34 (getdeploying 270 listings 45 providers Jun-11-2026)."
+h100_hyperscaler,H100,2023-10,7.76,7.62,7.77,hyperscaler list median Aug-Dec 2023,2022,2026-06,reported,https://www.silicondata.com/blog/h100-rental-price-over-time,"AWS/Azure/GCP list prices: the sticker nobody pays at scale."
+h100_hyperscaler,H100,2024-03,7.92,7.37,8.24,hyperscaler list median Jan-May 2024,2022,2026-06,reported,https://www.silicondata.com/blog/h100-rental-price-over-time,
+h100_hyperscaler,H100,2024-09,9.34,8.98,9.39,hyperscaler list median Jun-Dec 2024,2022,2026-06,reported,https://www.silicondata.com/blog/h100-rental-price-over-time,
+h100_hyperscaler,H100,2025-03,8.96,8.73,9.30,hyperscaler list median Jan-May 2025,2022,2026-06,reported,https://www.silicondata.com/blog/h100-rental-price-over-time,
+h100_hyperscaler,H100,2025-06,6.94,,,hyperscaler list median Jun 2025,2022,2026-06,reported,https://www.silicondata.com/blog/h100-rental-price-over-time,
+h100_hyperscaler,H100,2025-10,6.26,6.20,6.64,hyperscaler list median Jul-Dec 2025,2022,2026-06,reported,https://www.silicondata.com/blog/h100-rental-price-over-time,
+current_by_chip,A100,2026-05,1.62,1.62,5.04,cross-provider median,2020,2026-06,reported,https://aimultiple.com/gpu-index,"AIMultiple Cloud GPU Rental Price Index as of May-20-2026."
+current_by_chip,H100,2026-05,2.95,0.44,10.00,cross-provider median,2022,2026-06,reported,https://aimultiple.com/gpu-index,"Median incl hyperscalers; neocloud on-demand runs $1.49-2.99 (see h100_marketplace)."
+current_by_chip,H200,2026-05,3.39,2.29,13.78,cross-provider median,2024,2026-06,reported,https://aimultiple.com/gpu-index,
+current_by_chip,B200,2026-05,5.24,3.75,14.24,cross-provider median,2025,2026-06,reported,https://aimultiple.com/gpu-index,"getdeploying average $5.02 (Jun-11-2026); B200 on-demand UP ~7% YoY ($5.84->$6.28) - newest-gen prices rose while old-gen collapsed."
+current_by_chip,B300,2026-05,6.99,6.10,18.00,cross-provider median,2026,2026-06,reported,https://aimultiple.com/gpu-index,"Newest generation tracked; AIMultiple notes newest-gen on-demand rates roughly doubled over the past year."
